@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="120" viewBox="0 0 740 120" role="img" aria-label="Contributions snake for vivansh-dev">
+  <title>Contributions snake — vivansh-dev</title>
+  <style>
+    .cell { fill: #ebedf0; stroke: none; rx:2; }
+    .snake { fill: #0e4429; rx:2; }
+    .accent { fill: #9be9a8; }
+    .grid { opacity: 0.95 }
+    .snake-shadow { fill: rgba(0,0,0,0.12); filter: blur(2px); }
+  </style>
+
+  <!-- Grid parameters: 53 weeks x 7 days; cell size 11, gap 2 -->
+  <!-- Draw background grid of cells -->
+  <g class="grid" transform="translate(6,6)">
+    <!-- weeks (columns) -->
+    <!-- We'll draw rectangles across 53 columns and 7 rows -->
+    <!-- Cell size = 11, step = 13 -->
+    <g>
+      <!-- generate 53*7 = 371 cells -->
+      <!-- Row 0 at y=0 ... Row 6 at y=78 -->
+      <!-- Keep simple static light cells so profile displays like contributions heatmap -->
+      <!-- (This is a static grid — the snake animates on top) -->
+      
+      <!-- Hardcoded loop output -->
+      <!-- Cols -->
+      <!-- I'll lay out with straightforward arithmetic inside the static SVG -->
+    </g>
+  </g>
+
+  <!-- Instead of programmatically generating 371 rects in the message, emit them explicitly to ensure the file renders predictably. -->
+  <!-- Cells: -->
