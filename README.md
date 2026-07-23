@@ -171,9 +171,9 @@ Selected an optimal cloud service model, applied IAM/RBAC for role-based access,
 
 <!-- Snake - will work after workflow runs successfully -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivansh-dev/vivansh-dev/blob/output/github-snake-dark.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vivansh-dev/vivansh-dev/blob/output/github-snake.gif" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/vivansh-dev/vivansh-dev/blob/output/github-snake.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivansh-dev/vivansh-dev/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vivansh-dev/vivansh-dev/blob/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/vivansh-dev/vivansh-dev/blob/output/github-snake.svg" />
 </picture>
 
 </div>
